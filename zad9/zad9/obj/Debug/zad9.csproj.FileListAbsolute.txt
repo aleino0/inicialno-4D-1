@@ -1,7 +1,0 @@
-C:\Users\Mika\Documents\Alex\inicialn-4D-1\zad9\zad9\bin\Debug\zad9.exe.config
-C:\Users\Mika\Documents\Alex\inicialn-4D-1\zad9\zad9\bin\Debug\zad9.exe
-C:\Users\Mika\Documents\Alex\inicialn-4D-1\zad9\zad9\bin\Debug\zad9.pdb
-C:\Users\Mika\Documents\Alex\inicialn-4D-1\zad9\zad9\obj\Debug\zad9.csproj.AssemblyReference.cache
-C:\Users\Mika\Documents\Alex\inicialn-4D-1\zad9\zad9\obj\Debug\zad9.csproj.CoreCompileInputs.cache
-C:\Users\Mika\Documents\Alex\inicialn-4D-1\zad9\zad9\obj\Debug\zad9.exe
-C:\Users\Mika\Documents\Alex\inicialn-4D-1\zad9\zad9\obj\Debug\zad9.pdb
